@@ -138,4 +138,6 @@ dmypy.json
 cython_debug/
 
 asset
-chapter*
+DIP3E_Original_Images_CH*
+*.tif
+*.png
